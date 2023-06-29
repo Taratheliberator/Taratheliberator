@@ -58,12 +58,24 @@
 
 ### ⚙️ GitHub статистика:
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taratheliberator&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+<style>
+  .github-stats {
+    display: flex;
+    align-items: center;
+    background-color: #1f1f1f;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .github-stats img {
+    height: 195px;
+    margin-left: 10px;
+  }
+</style>
+
+<div class="github-stats">
+  <img alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taratheliberator&layout=compact&theme=vision-friendly-dark" />
+</div>
 
 
