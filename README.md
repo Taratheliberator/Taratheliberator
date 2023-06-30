@@ -23,7 +23,7 @@
 
 ---
 
-[Google](https://www.google.com)
+[Дипломный проект курс "Java разработчик" Нетология ]([https://www.google.com](https://github.com/Taratheliberator/DiplomGV77-master.git))
 
 
 <!-- ### 💻 Пройденные курсы:
