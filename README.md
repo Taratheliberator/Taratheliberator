@@ -34,6 +34,7 @@
 - [Домашнее задание "Сервис авторизации"](https://github.com/Taratheliberator/Rest.git)
 - [Домашнее задание "Задача «Прокси на NGINX»"](https://github.com/Taratheliberator/Rest-nginx.git)
 - [Домашнее задание "Задача «Dockerfile»"](https://github.com/Taratheliberator/Rest-docker.git)
+- [Домашнее задание "Задача «Интеграционное тестирование»"](https://github.com/Taratheliberator/Conditional-test.git)
 
 <!-- ### 💻 Пройденные курсы:
 
