@@ -32,6 +32,7 @@
 
 - [Домашнее задание на потоки](https://github.com/Taratheliberator/multithreadingInterval.git)
 - [Домашнее задание "Сервис авторизации"](https://github.com/Taratheliberator/Rest.git)
+- [Домашнее задание "Задача «Прокси на NGINX»"](https://github.com/Taratheliberator/Rest-nginx.git)
 
 <!-- ### 💻 Пройденные курсы:
 
