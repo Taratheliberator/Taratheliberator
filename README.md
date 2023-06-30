@@ -23,8 +23,8 @@
 
 ---
 ### 💻 Мои работы:
--[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
--[Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
+[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
+[Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
 
 <!-- ### 💻 Пройденные курсы:
 
