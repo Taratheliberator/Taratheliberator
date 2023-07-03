@@ -19,7 +19,7 @@
    июнь 2023, "Java в Сбере", виртуальная стажировка 
 
 
--  [![VShE.png](https://i.postimg.cc/9MKC5d8q/VShE.png)](https://postimg.cc/DJrt1XK2)
+-  <a href='https://postimg.cc/DJrt1XK2' target='_blank'><img src='https://i.postimg.cc/DJrt1XK2/VShE.png' border='0' alt='VShE'/></a>
 
    июнь 2023 , Java-разработчик, Диплом профессиональной переподготовки, Нетология
 
