@@ -24,7 +24,7 @@
    
    <a href='https://postimg.cc/DJrt1XK2' target='_blank'><img src='https://i.postimg.cc/DJrt1XK2/VShE.png' border='0' alt='VShE'/></a>
    
-  -май 2023 , Цифровая трансформация университета, Национальный исследовательский университет "Высшая школа экономики", Стажировка
+  - май 2023 , Цифровая трансформация университета, Национальный исследовательский университет "Высшая школа экономики", Стажировка
 
    <a href='https://postimg.cc/SX1yJL9n' target='_blank'><img src='https://i.postimg.cc/SX1yJL9n/React-Netology.png' border='0' alt='React-Netology'/></a>
   -  январь 2023 , React: Библиотека №1 в современной фронтенд-разработке, Нетология, Удостоверение о повышении квалификации
