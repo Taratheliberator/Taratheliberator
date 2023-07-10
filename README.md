@@ -48,6 +48,9 @@
 ---
 
 ### 💻 Мои работы:
+
+[Гадание на картах Таро ](https://github.com/Taratheliberator/tarotapp.git) 
+
 [Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
 [Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
