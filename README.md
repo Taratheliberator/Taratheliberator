@@ -49,7 +49,7 @@
 
 ### 💻 Мои работы:
 
-[Гадание на картах Таро ](https://github.com/Taratheliberator/tarotapp.git) 
+[Гадание на картах Таро Android приложение ](https://github.com/Taratheliberator/tarotapp.git) 
 
 [Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
