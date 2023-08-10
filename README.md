@@ -53,11 +53,13 @@
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
 
-:factory_worker:[План ликвидаций возможных аварий](https://github.com/Taratheliberator/PLVA_App.git) 
+:factory_worker:[Android приложение "План ликвидаций возможных аварий"](https://github.com/Taratheliberator/PLVA_App.git) 
+
+[Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
 
 [Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
-[Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
+
 
 #### Примеры выполненных домашних заданий во время обучения на курсе "Java разработчик" в Нетологии
 
