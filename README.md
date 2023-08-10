@@ -53,6 +53,8 @@
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
 
+:diamonds:[Android приложение на Java выбор одной карты без описания "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/tarotonjavaapp.git) 
+
 :factory_worker:[Android приложение "План ликвидаций возможных аварий"](https://github.com/Taratheliberator/PLVA_App.git) 
 
 :sunny: [Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
