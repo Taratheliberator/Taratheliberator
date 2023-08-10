@@ -55,7 +55,7 @@
 
 :factory_worker:[Android приложение "План ликвидаций возможных аварий"](https://github.com/Taratheliberator/PLVA_App.git) 
 
-:sun: [Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
+:sunny: [Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
 
 :man_student:[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
