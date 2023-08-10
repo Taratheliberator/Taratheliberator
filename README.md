@@ -51,7 +51,7 @@
 
 :yin_yang:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
 
-[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
+:hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
 
 [Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
