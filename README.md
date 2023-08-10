@@ -57,7 +57,7 @@
 
 [Одно из первых моих приложений для Андроида WeatherApp](https://github.com/Taratheliberator/WeatherApp)
 
-[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
+:man_student:[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
 
 
