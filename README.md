@@ -54,6 +54,8 @@
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
 
+На Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="23" height="23"/>:
+
 :diamonds:[Android приложение на Java выбор одной карты без описания "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/tarotonjava.git) 
 
 :factory_worker:[Android приложение "План ликвидаций возможных аварий"](https://github.com/Taratheliberator/PLVA_App.git) 
