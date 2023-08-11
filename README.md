@@ -50,13 +50,13 @@
 ### 💻 Мои работы:
 На React Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="23" height="23"/>:
 
-:yin_yang:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
+:spades:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
 
 На Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="23" height="23"/>:
 
-:diamonds:[Android приложение "Гадание на картах Таро" выбор одной карты без описания](https://github.com/Taratheliberator/tarotonjava.git) 
+:clubs:[Android приложение "Гадание на картах Таро" выбор одной карты без описания](https://github.com/Taratheliberator/tarotonjava.git) 
 
 :diamonds:[Android приложение "Гадание на картах Таро" выбор трех карты с описанием](https://github.com/Taratheliberator/tarotonjava3cards) 
 
