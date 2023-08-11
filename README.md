@@ -48,7 +48,7 @@
 ---
 
 ### 💻 Мои работы:
-
+На React Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
 :yin_yang:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
