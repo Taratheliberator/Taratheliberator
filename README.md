@@ -56,9 +56,9 @@
 
 На Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="23" height="23"/>:
 
-:diamonds:[Android приложение на Java "Гадание на картах Таро" выбор одной карты без описания](https://github.com/Taratheliberator/tarotonjava.git) 
+:diamonds:[Android приложение "Гадание на картах Таро" выбор одной карты без описания](https://github.com/Taratheliberator/tarotonjava.git) 
 
-:diamonds:[Android приложение на Java "Гадание на картах Таро" выбор трех карты с описанием](https://github.com/Taratheliberator/tarotonjava.git) 
+:diamonds:[Android приложение "Гадание на картах Таро" выбор трех карты с описанием](https://github.com/Taratheliberator/tarotonjava3cards) 
 
 :factory_worker:[Android приложение "План ликвидаций возможных аварий"](https://github.com/Taratheliberator/PLVA_App.git) 
 
