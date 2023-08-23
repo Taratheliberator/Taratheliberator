@@ -49,13 +49,14 @@
 
 ### 💻 Мои работы:
 
-Опубликовал приложение "Таро" в магазине приложений [NashStore](https://store.nashstore.ru/store/64c20ea60a39b2f2f88449d5)
 
 На React Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="23" height="23"/>:
 
 :spades:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
 
 :hearts:[Android приложение "Гадание на картах Таро" (Все карты) ](https://github.com/Taratheliberator/taroapp.git) 
+
+Опубликовал приложение "Таро" в магазине приложений [NashStore](https://store.nashstore.ru/store/64c20ea60a39b2f2f88449d5)
 
 На Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="23" height="23"/>:
 
