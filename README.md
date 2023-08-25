@@ -70,7 +70,9 @@
 
 :man_student:[Дипломный проект курс "Java разработчик", Нетология ](https://github.com/Taratheliberator/DiplomGV77-master.git) 
 
+#### Выполненные тестовые задания
 
+- [Задание по SQL, фирма "Архимед"](https://github.com/Taratheliberator/testovoe_zadanie_SQL_firma_Arhimed)
 
 #### Примеры выполненных домашних заданий во время обучения на курсе "Java разработчик" в Нетологии
 
