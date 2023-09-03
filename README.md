@@ -13,7 +13,11 @@
 
  ### 💻 Пройденные курсы и стажировки:
 
-  [![Sber-sertificat](https://i.postimg.cc/njGFVYvq/Sber-sertificat.png)](https://postimg.cc/njGFVYvq)
+   [Screenshot-2023-09-03-094852.png](https://postimg.cc/tZgSckqb)
+
+- сентябрь 2023
+  
+   [![Sber-sertificat](https://i.postimg.cc/njGFVYvq/Sber-sertificat.png)](https://postimg.cc/njGFVYvq)
 
 
   - июнь 2023, "Java в Сбере", виртуальная стажировка
