@@ -13,7 +13,7 @@
 
  ### 💻 Пройденные курсы и стажировки:
 
-   [![Screenshot-2023-09-03-094852.png](https://i.postimg.cc/hjLkfZNX/Screenshot-2023-09-03-094852.png)](https://postimg.cc/tZgSckqb)
+  <a href='https://postimg.cc/tZgSckqb' target='_blank'><img src='https://i.postimg.cc/tZgSckqb/Screenshot-2023-09-03-094852.png' border='0' alt='Screenshot-2023-09-03-094852'/></a>
 
    - сентябрь 2023, Машинное Обучение в Python: Большой Курс для Начинающих, "Stepik"
   
