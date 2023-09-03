@@ -16,9 +16,12 @@
   <a href='https://postimg.cc/tZgSckqb' target='_blank'><img src='https://i.postimg.cc/tZgSckqb/Screenshot-2023-09-03-094852.png' border='0' alt='Screenshot-2023-09-03-094852'/></a>
 
    - сентябрь 2023, Машинное Обучение в Python: Большой Курс для Начинающих, "Stepik"
+
+  <a href='https://postimg.cc/jWqYszxg' target='_blank'><img src='https://i.postimg.cc/jWqYszxg/Screenshot-2023-09-03-100846.png' border='0' alt='Screenshot-2023-09-03-100846'/></a>
+
+  - август 2023, SQL для всех, "Stepik"
   
    [![Sber-sertificat](https://i.postimg.cc/njGFVYvq/Sber-sertificat.png)](https://postimg.cc/njGFVYvq)
-
 
   - июнь 2023, "Java в Сбере", виртуальная стажировка
 
