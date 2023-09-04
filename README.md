@@ -1,4 +1,4 @@
-![image](https://github.com/Taratheliberator/Taratheliberator/assets/105556469/5e51d90d-b810-47c6-9ac2-a896cd587f8c)# Привет, меня зовут Винер!
+# Привет, меня зовут Винер!
 
 
 
