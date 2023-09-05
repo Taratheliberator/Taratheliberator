@@ -23,7 +23,7 @@
 
    - сентябрь 2023, Машинное Обучение в Python: Большой Курс для Начинающих, "Stepik"
 
-  <a href='https://postimg.cc/jWqYszxg' target='_blank'><img src='https://i.postimg.cc/jWqYszxg/Screenshot-2023-09-03-100846.png' border='0' alt='Screenshot-2023-09-03-100846'/></a>
+  <a href='https://postimg.cc/cvb3nH9S' target='_blank'><img src='https://i.postimg.cc/cvb3nH9S/Stepik-SQL.png' border='0' alt='Stepik-SQL'/></a>
 
   - август 2023, SQL для всех, "Stepik"
   
