@@ -15,7 +15,7 @@
 
  ### 💻 Пройденные курсы и стажировки:
 
-  <a href='https://postimg.cc/f3HsTD5p' target='_blank'><img src='https://i.postimg.cc/f3HsTD5p/Screenshot-2023-09-04-215218.png' border='0' alt='Screenshot-2023-09-04-215218'/></a>
+ <a href='https://postimg.cc/ph4vxQr7' target='_blank'><img src='https://i.postimg.cc/ph4vxQr7/Stepik-Pandas.png' border='0' alt='Stepik-Pandas'/></a>
 
    - сентябрь 2023, Python: анализ данных с Pandas, "Stepik"
 
