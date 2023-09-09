@@ -85,6 +85,8 @@
 
 #### Выполненные тестовые задания
 
+- [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Sber.git)
+
 - [Задание по SQL, фирма "Архимед"](https://github.com/Taratheliberator/testovoe_zadanie_SQL_firma_Arhimed)
 
 #### Примеры выполненных домашних заданий во время обучения на курсе "Java разработчик" в Нетологии
