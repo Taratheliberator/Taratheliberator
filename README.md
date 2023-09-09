@@ -85,7 +85,9 @@
 
 #### Выполненные тестовые задания
 
-- [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Sber.git)
+- [На конкурс "Красоты кода от Сбера"](https://github.com/Taratheliberator/Sber.git)
+
+- [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Port.git)
 
 - [Задание по SQL, фирма "Архимед"](https://github.com/Taratheliberator/testovoe_zadanie_SQL_firma_Arhimed)
 
