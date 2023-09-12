@@ -15,7 +15,11 @@
 
  ### 💻 Пройденные курсы и стажировки:
 
- <a href='https://postimg.cc/ph4vxQr7' target='_blank'><img src='https://i.postimg.cc/ph4vxQr7/Stepik-Pandas.png' border='0' alt='Stepik-Pandas'/></a>
+  <a href='https://postimg.cc/5X6kcz58' target='_blank'><img src='https://i.postimg.cc/5X6kcz58/Stepic-ML.png' border='0' alt='Stepic-ML'/></a>
+
+   - сентябрь 2023, Погружение в Data Science и машинное обучения с нуля
+
+  <a href='https://postimg.cc/ph4vxQr7' target='_blank'><img src='https://i.postimg.cc/ph4vxQr7/Stepik-Pandas.png' border='0' alt='Stepik-Pandas'/></a>
 
    - сентябрь 2023, Python: анализ данных с Pandas, "Stepik"
 
