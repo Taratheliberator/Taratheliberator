@@ -89,7 +89,9 @@
 
 #### Выполненные тестовые задания
 
-- 📊 🤖 [На конкурс "Красоты кода от Сбера" направление DataScience](https://github.com/Taratheliberator/Sber_data.git)
+- 📊 🤖
+
+- [На конкурс "Красоты кода от Сбера" направление DataScience](https://github.com/Taratheliberator/Sber_data.git)
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="40" height="40"/>
 
