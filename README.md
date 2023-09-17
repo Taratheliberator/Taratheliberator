@@ -97,6 +97,8 @@
 
 - [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Port.git)
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>  
+
 - [Задание по SQL, фирма "Архимед"](https://github.com/Taratheliberator/testovoe_zadanie_SQL_firma_Arhimed)
 
 #### Примеры выполненных домашних заданий во время обучения на курсе "Java разработчик" в Нетологии
