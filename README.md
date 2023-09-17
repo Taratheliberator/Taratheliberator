@@ -89,6 +89,8 @@
 
 #### Выполненные тестовые задания
 
+- [На конкурс "Красоты кода от Сбера" направление DataScience](https://github.com/Taratheliberator/Sber_data.git)
+
 - [На конкурс "Красоты кода от Сбера" направление Java](https://github.com/Taratheliberator/Sber.git)
 
 - [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Port.git)
