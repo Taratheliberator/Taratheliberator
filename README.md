@@ -64,7 +64,7 @@
 
 ---
 
-### 💻 Мои работы:
+### 💻 Мои пэт-проекты:
 
 
 На React Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="23" height="23"/>:
