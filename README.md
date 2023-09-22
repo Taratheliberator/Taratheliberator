@@ -91,7 +91,7 @@
 
  📊 🤖
 
-- [Домашние задание "Титаник" на курсе "RuCode" направление ИИ](https://github.com/Taratheliberator/Titanic_data.git)
+- [Домашние задание "Титаник" на курсе "RuCode" направление ИИ](https://github.com/Taratheliberator/Titanik_data.git)
 
 - [На конкурс "Красоты кода от Сбера" направление DataScience](https://github.com/Taratheliberator/Sber_data.git)
 
