@@ -67,6 +67,9 @@
 ### 💻 Мои работы:
 
 #### Пэт-проекты
+
+📊 🤖 Data Scince [Фондовый рынок. Прогнозирование котировок акции Сбербанка](https://github.com/Taratheliberator/stockmarket_prediction.git)
+
 На React Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="23" height="23"/>:
 
 :spades:[Android приложение "Гадание на картах Таро" (Старшие арканы) ](https://github.com/Taratheliberator/tarotapp.git)
