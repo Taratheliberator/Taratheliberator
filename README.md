@@ -100,6 +100,8 @@
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg " title="java" alt="java" width="40" height="40"/>
 
+ - [На вакансию "Java-разработчик" Т1 Консалтинг](https://github.com/Taratheliberator/t1.git)
+
 - [На конкурс "Красоты кода от Сбера" направление Java](https://github.com/Taratheliberator/Sber.git)
 
 - [На вакансию "Программист Java" ОАО СУПЕРТЕЛ](https://github.com/Taratheliberator/Port.git)
